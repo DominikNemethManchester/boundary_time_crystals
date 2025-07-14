@@ -8,6 +8,13 @@ by Dominik Németh, Alessandro Principi and Ahsan Nazir 2025.
 It includes a Jupyter notebook to reproduce the key analytical and numerical results presented in the paper.  
 Specifically, the code computes the Liouvillian spectrum, evaluates observables like ⟨J_z⟩, and visualizes signatures of time-translation symmetry breaking in dissipative quantum spin models.
 
+## Usage
+
+Open and run the notebook:
+
+- [`btc_collective_spin.ipynb`](btc_collective_spin.ipynb): Main notebook containing simulations and plots for our paper.
+
+
 ## Citation
 
 If you use this code or build upon this work, please cite the following paper:
