@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following work:"
+title: "Solving boundary time crystals via the superspin method"
+authors:
+  - family-names: Nemeth
+    given-names: Dominik
+    affiliation: University of Manchester
+    orcid: https://orcid.org/0009-0004-5885-5359 
+  - family-names: Principi
+    given-names: Alessandro
+    affiliation: University of Mancheseter
+  - family-names: Nazir
+    given-names: Ahsan
+    affiliation: University of Manchester
+date-released: 2025-07-14
+version: "1.0"
+doi: 10.48550/arXiv.2507.06998
+url: https://github.com/DominikNemethManchester/boundary-time-crystals
+repository-code: https://github.com/DominikNemethManchester/boundary-time-crystals
+license: MIT
