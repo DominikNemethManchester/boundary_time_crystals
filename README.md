@@ -1,4 +1,4 @@
-# boundary_time_crystals
+# Boundary time crystals in collective spin models
 
 This repository contains the code used in the paper:
 
